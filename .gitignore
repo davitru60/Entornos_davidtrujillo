@@ -1,9 +1,0 @@
-# Ignorar archivos de clase
-*.class
-
-# Ignorar archivos JAR
-*.jar
-
-# Ignorar directorios
-/out
-/.idea
