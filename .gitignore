@@ -3,3 +3,7 @@
 
 # Ignorar archivos JAR
 *.jar
+
+# Ignorar directorios
+/out
+/.idea
