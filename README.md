@@ -10,3 +10,4 @@ Para el programa principal se pide una simulación para la creación de la infra
 Los datos para crear todo lo necesario, se crearán de forma automatizada y genérica. (Ejemplo para los monumentos, el nombre, MON1, MON2, MON7, …)
 La salida por pantalla, será el guía con sus rutas turísticas y estas con sus lugares turísticos y sus datos.
 
+David Trujillo Carrero
