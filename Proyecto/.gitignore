@@ -5,5 +5,5 @@
 *.jar
 
 # Ignorar directorios
-out
-.idea
+out/
+.idea/

@@ -18,6 +18,7 @@ class RutaTuristica {
     fun aniadirLugar(l:LugaresTuristicos){
         Lugares.add(l)
     }
+
     fun precioMedio():Int{
         var valor = 0
         for (i in 0 until Lugares.size){
